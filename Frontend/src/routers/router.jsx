@@ -1,22 +1,21 @@
-import {
-    createBrowserRouter,
-    
-  } from "react-router-dom";
+import { createBrowserRouter } from "react-router-dom";
 import App from "../App";
+import Contact from "../contact"; 
 
-export const router = createBrowserRouter([
-    {
-      path: "/",
-      element:<App></App>,
-      children:[
-        {
-            path: "/",
-            element: <div>HOme page</div>,
-          },
-          {
-            path: "contacts/:contactId",
-            element: <Contact />,
-          },
-      ]
-    },
-  ]);
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <App />,
+    children: [
+      {
+        path: "/",
+        element: <div>Home page</div>,
+      },
+      {
+        path: "/contact",
+        element: <Contact />
+      }
+    ]
+  }
+]);
+export default router;
