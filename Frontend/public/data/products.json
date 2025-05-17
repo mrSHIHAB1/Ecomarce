@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "name": "Shirts",
+    "category": "accessories",
+    "description": "Stylish leather handbag with ample storage space.",
+    "price": 79.99,
+    "CategoryID": 11,
+    "image": "https://i.ibb.co/rBHJ7cQ/shirt.webp",
+    "color": "black",
+    "rating": 4.5,
+    "author":"admin"
+  },
+  {
+    "id": 2,
+    "name": "POLO",
+    "category": "dress",
+    "description": "Elegant evening gown for special occasions.",
+    "price": 149.99,
+    "CategoryID":22,
+    "image": "https://i.ibb.co/nstzjZPq/polo.jpg",
+    "color": "red",
+    "rating": 4.0
+  },
+  {
+    "id": 3,
+    "name": "Full Sleave",
+    "category": "jewellery",
+    "description": "Exquisite gold necklace with intricate design.",
+    "price": 199.99,
+    "CategoryID": 33,
+    "image": "https://i.ibb.co/KcHyfMRb/fullsleave.jpg",
+    "color": "gold",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "Jersey",
+    "category": "cosmetics",
+    "description": "Long-lasting matte lipstick in various shades.",
+    "price": 19.99,
+    "CategoryID": 44,
+    "image": "https://i.ibb.co/s9TCHs0v/jersey.jpg",
+    "color": "red",
+    "rating": 4.2
+  },
+  {
+    "id": 5,
+    "name": "Mask",
+    "category": "accessories",
+    "description": "Luxurious silk scarf with vibrant colors.",
+    "price": 29.99,
+    "CategoryID": 55,
+    "image": "https://i.ibb.co/tMBDYkQp/mask.jpg",
+    "color": "blue",
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "name": "Half Sleave",
+    "category": "dress",
+    "description": "Chic cocktail dress for parties and events.",
+    "price": 89.99,
+    "CategoryID": 66,
+    "image": "https://i.ibb.co/KcHyfMRb/fullsleave.jpg",
+    "color": "black",
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "name": "Shorts",
+    "category": "jewellery",
+    "description": "Sparkling diamond earrings that add elegance to any outfit.",
+    "price": 299.99,
+    "CategoryID": 77,
+    "image": "https://i.ibb.co/Y7JbYjM4/shorts.jpg",
+    "color": "silver",
+    "rating": 4.8
+  },
+  {
+    "id": 8,
+    "name": "Socks",
+    "category": "cosmetics",
+    "description": "High-coverage foundation for a flawless finish.",
+    "price": 39.99,
+    "CategoryID": 88,
+    "image": "https://i.ibb.co/rKm0L1ZF/socks.jpg",
+    "color": "beige",
+    "rating": 4.1
+  },
+  {
+    "id": 9,
+    "name": "Pants",
+    "category": "accessories",
+    "description": "Trendy sunglasses with UV protection.",
+    "price": 49.99,
+    "CategoryID": 99,
+    "image": "https://i.ibb.co/yF6TfLQN/605A8798.jpgD",
+    "color": "black",
+    "rating": 4.6
+  },
+  {
+    "id": 10,
+    "name": "Underwear",
+    "category": "dress",
+    "description": "Comfortable maxi dress for casual outings.",
+    "price": 59.99,
+    "CategoryID": 1010,
+    "image": "https://i.ibb.co/FLnfBxq0/underwear.jpg",
+    "color": "green",
+    "rating": 4.2
+  }
+]

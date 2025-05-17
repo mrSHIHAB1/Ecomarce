@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <>
+    <><div className='fixed z-50 w-full '>
     <div className=''>
         <div className="navbar bg-base-100 shadow-sm">
   <div className="navbar-start">
@@ -78,6 +78,7 @@ const Navbar = () => {
    
   </div>
 </div>
+    </div>
     </div>
    </>
   )

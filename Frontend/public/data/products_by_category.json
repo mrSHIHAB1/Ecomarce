@@ -1,0 +1,852 @@
+[
+  {
+    "CategoryID": 11,
+    "products": [
+      {
+        "name": "Product 12",
+        "subcategoryId": 12,
+        "description": "Description for subcategory 12",
+        "price": 31.54,
+        "rating": 4.5,
+        "image": "https://i.ibb.co/KcHyfMRb/fullsleave.jpg"
+      },
+      {
+        "name": "Product 13",
+        "subcategoryId": 13,
+        "description": "Description for subcategory 13",
+        "price": 112.12,
+        "rating": 3.8,
+        "image": "https://i.ibb.co/rKm0L1ZF/socks.jpg"
+      },
+      {
+        "name": "Product 14",
+        "subcategoryId": 14,
+        "description": "Description for subcategory 14",
+        "price": 40.76,
+        "rating": 3.6,
+        "image": "https://i.ibb.co/rKm0L1ZF/socks.jpg"
+      },
+      {
+        "name": "Product 15",
+        "subcategoryId": 15,
+        "description": "Description for subcategory 15",
+        "price": 98.64,
+        "rating": 4.6,
+        "image": "https://i.ibb.co/KcHyfMRb/fullsleave.jpg"
+      },
+      {
+        "name": "Product 16",
+        "subcategoryId": 16,
+        "description": "Description for subcategory 16",
+        "price": 113.45,
+        "rating": 4.1,
+        "image": "https://i.ibb.co/FLnfBxq0/underwear.jpg"
+      },
+      {
+        "name": "Product 17",
+        "subcategoryId": 17,
+        "description": "Description for subcategory 17",
+        "price": 80.49,
+        "rating": 3.9,
+        "image": "https://i.ibb.co/Y7JbYjM4/shorts.jpg"
+      },
+      {
+        "name": "Product 18",
+        "subcategoryId": 18,
+        "description": "Description for subcategory 18",
+        "price": 167.43,
+        "rating": 4.6,
+        "image": "https://i.ibb.co/KcHyfMRb/fullsleave.jpg"
+      },
+      {
+        "name": "Product 19",
+        "subcategoryId": 19,
+        "description": "Description for subcategory 19",
+        "price": 168.85,
+        "rating": 5.0,
+        "image": "https://i.ibb.co/s9TCHs0v/jersey.jpg"
+      },
+      {
+        "name": "Product 20",
+        "subcategoryId": 20,
+        "description": "Description for subcategory 20",
+        "price": 178.15,
+        "rating": 4.3,
+        "image": "https://i.ibb.co/yF6TfLQN/605A8798.jpgD"
+      },
+      {
+        "name": "Product 21",
+        "subcategoryId": 21,
+        "description": "Description for subcategory 21",
+        "price": 156.11,
+        "rating": 4.7,
+        "image": "https://i.ibb.co/yF6TfLQN/605A8798.jpgD"
+      }
+    ]
+  },
+  {
+    "CategoryID": 22,
+    "products": [
+      {
+        "name": "Product 23",
+        "subcategoryId": 23,
+        "description": "Description for subcategory 23",
+        "price": 78.86,
+        "rating": 4.3,
+        "image": "https://i.ibb.co/rBHJ7cQ/shirt.webp"
+      },
+      {
+        "name": "Product 24",
+        "subcategoryId": 24,
+        "description": "Description for subcategory 24",
+        "price": 184.29,
+        "rating": 4.7,
+        "image": "https://i.ibb.co/FLnfBxq0/underwear.jpg"
+      },
+      {
+        "name": "Product 25",
+        "subcategoryId": 25,
+        "description": "Description for subcategory 25",
+        "price": 39.64,
+        "rating": 4.0,
+        "image": "https://i.ibb.co/KcHyfMRb/fullsleave.jpg"
+      },
+      {
+        "name": "Product 26",
+        "subcategoryId": 26,
+        "description": "Description for subcategory 26",
+        "price": 95.4,
+        "rating": 4.7,
+        "image": "https://i.ibb.co/rKm0L1ZF/socks.jpg"
+      },
+      {
+        "name": "Product 27",
+        "subcategoryId": 27,
+        "description": "Description for subcategory 27",
+        "price": 167.05,
+        "rating": 4.5,
+        "image": "https://i.ibb.co/FLnfBxq0/underwear.jpg"
+      },
+      {
+        "name": "Product 28",
+        "subcategoryId": 28,
+        "description": "Description for subcategory 28",
+        "price": 34.47,
+        "rating": 4.2,
+        "image": "https://i.ibb.co/rBHJ7cQ/shirt.webp"
+      },
+      {
+        "name": "Product 29",
+        "subcategoryId": 29,
+        "description": "Description for subcategory 29",
+        "price": 55.87,
+        "rating": 4.0,
+        "image": "https://i.ibb.co/tMBDYkQp/mask.jpg"
+      },
+      {
+        "name": "Product 30",
+        "subcategoryId": 30,
+        "description": "Description for subcategory 30",
+        "price": 176.08,
+        "rating": 4.3,
+        "image": "https://i.ibb.co/rBHJ7cQ/shirt.webp"
+      },
+      {
+        "name": "Product 31",
+        "subcategoryId": 31,
+        "description": "Description for subcategory 31",
+        "price": 35.15,
+        "rating": 3.9,
+        "image": "https://i.ibb.co/FLnfBxq0/underwear.jpg"
+      },
+      {
+        "name": "Product 32",
+        "subcategoryId": 32,
+        "description": "Description for subcategory 32",
+        "price": 174.59,
+        "rating": 3.7,
+        "image": "https://i.ibb.co/nstzjZPq/polo.jpg"
+      }
+    ]
+  },
+  {
+    "CategoryID": 33,
+    "products": [
+      {
+        "name": "Product 34",
+        "subcategoryId": 34,
+        "description": "Description for subcategory 34",
+        "price": 35.37,
+        "rating": 4.0,
+        "image": "https://i.ibb.co/yF6TfLQN/605A8798.jpgD"
+      },
+      {
+        "name": "Product 35",
+        "subcategoryId": 35,
+        "description": "Description for subcategory 35",
+        "price": 126.35,
+        "rating": 4.7,
+        "image": "https://i.ibb.co/KcHyfMRb/fullsleave.jpg"
+      },
+      {
+        "name": "Product 36",
+        "subcategoryId": 36,
+        "description": "Description for subcategory 36",
+        "price": 184.32,
+        "rating": 3.8,
+        "image": "https://i.ibb.co/tMBDYkQp/mask.jpg"
+      },
+      {
+        "name": "Product 37",
+        "subcategoryId": 37,
+        "description": "Description for subcategory 37",
+        "price": 38.7,
+        "rating": 4.1,
+        "image": "https://i.ibb.co/Y7JbYjM4/shorts.jpg"
+      },
+      {
+        "name": "Product 38",
+        "subcategoryId": 38,
+        "description": "Description for subcategory 38",
+        "price": 24.84,
+        "rating": 4.7,
+        "image": "https://i.ibb.co/rBHJ7cQ/shirt.webp"
+      },
+      {
+        "name": "Product 39",
+        "subcategoryId": 39,
+        "description": "Description for subcategory 39",
+        "price": 120.79,
+        "rating": 4.8,
+        "image": "https://i.ibb.co/KcHyfMRb/fullsleave.jpg"
+      },
+      {
+        "name": "Product 40",
+        "subcategoryId": 40,
+        "description": "Description for subcategory 40",
+        "price": 128.21,
+        "rating": 4.3,
+        "image": "https://i.ibb.co/FLnfBxq0/underwear.jpg"
+      },
+      {
+        "name": "Product 41",
+        "subcategoryId": 41,
+        "description": "Description for subcategory 41",
+        "price": 53.99,
+        "rating": 3.7,
+        "image": "https://i.ibb.co/FLnfBxq0/underwear.jpg"
+      },
+      {
+        "name": "Product 42",
+        "subcategoryId": 42,
+        "description": "Description for subcategory 42",
+        "price": 61.9,
+        "rating": 5.0,
+        "image": "https://i.ibb.co/KcHyfMRb/fullsleave.jpg"
+      },
+      {
+        "name": "Product 43",
+        "subcategoryId": 43,
+        "description": "Description for subcategory 43",
+        "price": 131.92,
+        "rating": 4.9,
+        "image": "https://i.ibb.co/rBHJ7cQ/shirt.webp"
+      }
+    ]
+  },
+  {
+    "CategoryID": 44,
+    "products": [
+      {
+        "name": "Product 45",
+        "subcategoryId": 45,
+        "description": "Description for subcategory 45",
+        "price": 92.26,
+        "rating": 4.4,
+        "image": "https://i.ibb.co/tMBDYkQp/mask.jpg"
+      },
+      {
+        "name": "Product 46",
+        "subcategoryId": 46,
+        "description": "Description for subcategory 46",
+        "price": 170.59,
+        "rating": 4.1,
+        "image": "https://i.ibb.co/rBHJ7cQ/shirt.webp"
+      },
+      {
+        "name": "Product 47",
+        "subcategoryId": 47,
+        "description": "Description for subcategory 47",
+        "price": 142.96,
+        "rating": 4.1,
+        "image": "https://i.ibb.co/nstzjZPq/polo.jpg"
+      },
+      {
+        "name": "Product 48",
+        "subcategoryId": 48,
+        "description": "Description for subcategory 48",
+        "price": 80.39,
+        "rating": 4.0,
+        "image": "https://i.ibb.co/tMBDYkQp/mask.jpg"
+      },
+      {
+        "name": "Product 49",
+        "subcategoryId": 49,
+        "description": "Description for subcategory 49",
+        "price": 103.77,
+        "rating": 4.9,
+        "image": "https://i.ibb.co/rKm0L1ZF/socks.jpg"
+      },
+      {
+        "name": "Product 50",
+        "subcategoryId": 50,
+        "description": "Description for subcategory 50",
+        "price": 195.0,
+        "rating": 3.6,
+        "image": "https://i.ibb.co/nstzjZPq/polo.jpg"
+      },
+      {
+        "name": "Product 51",
+        "subcategoryId": 51,
+        "description": "Description for subcategory 51",
+        "price": 91.54,
+        "rating": 3.6,
+        "image": "https://i.ibb.co/Y7JbYjM4/shorts.jpg"
+      },
+      {
+        "name": "Product 52",
+        "subcategoryId": 52,
+        "description": "Description for subcategory 52",
+        "price": 46.98,
+        "rating": 3.7,
+        "image": "https://i.ibb.co/FLnfBxq0/underwear.jpg"
+      },
+      {
+        "name": "Product 53",
+        "subcategoryId": 53,
+        "description": "Description for subcategory 53",
+        "price": 60.95,
+        "rating": 4.0,
+        "image": "https://i.ibb.co/KcHyfMRb/fullsleave.jpg"
+      },
+      {
+        "name": "Product 54",
+        "subcategoryId": 54,
+        "description": "Description for subcategory 54",
+        "price": 50.54,
+        "rating": 4.0,
+        "image": "https://i.ibb.co/FLnfBxq0/underwear.jpg"
+      }
+    ]
+  },
+  {
+    "CategoryID": 55,
+    "products": [
+      {
+        "name": "Product 56",
+        "subcategoryId": 56,
+        "description": "Description for subcategory 56",
+        "price": 119.92,
+        "rating": 4.5,
+        "image": "https://i.ibb.co/rKm0L1ZF/socks.jpg"
+      },
+      {
+        "name": "Product 57",
+        "subcategoryId": 57,
+        "description": "Description for subcategory 57",
+        "price": 96.13,
+        "rating": 4.1,
+        "image": "https://i.ibb.co/FLnfBxq0/underwear.jpg"
+      },
+      {
+        "name": "Product 58",
+        "subcategoryId": 58,
+        "description": "Description for subcategory 58",
+        "price": 168.62,
+        "rating": 4.5,
+        "image": "https://i.ibb.co/KcHyfMRb/fullsleave.jpg"
+      },
+      {
+        "name": "Product 59",
+        "subcategoryId": 59,
+        "description": "Description for subcategory 59",
+        "price": 154.39,
+        "rating": 5.0,
+        "image": "https://i.ibb.co/rBHJ7cQ/shirt.webp"
+      },
+      {
+        "name": "Product 60",
+        "subcategoryId": 60,
+        "description": "Description for subcategory 60",
+        "price": 79.86,
+        "rating": 4.1,
+        "image": "https://i.ibb.co/Y7JbYjM4/shorts.jpg"
+      },
+      {
+        "name": "Product 61",
+        "subcategoryId": 61,
+        "description": "Description for subcategory 61",
+        "price": 173.71,
+        "rating": 3.7,
+        "image": "https://i.ibb.co/rKm0L1ZF/socks.jpg"
+      },
+      {
+        "name": "Product 62",
+        "subcategoryId": 62,
+        "description": "Description for subcategory 62",
+        "price": 37.7,
+        "rating": 4.3,
+        "image": "https://i.ibb.co/s9TCHs0v/jersey.jpg"
+      },
+      {
+        "name": "Product 63",
+        "subcategoryId": 63,
+        "description": "Description for subcategory 63",
+        "price": 173.68,
+        "rating": 3.9,
+        "image": "https://i.ibb.co/Y7JbYjM4/shorts.jpg"
+      },
+      {
+        "name": "Product 64",
+        "subcategoryId": 64,
+        "description": "Description for subcategory 64",
+        "price": 32.5,
+        "rating": 4.3,
+        "image": "https://i.ibb.co/yF6TfLQN/605A8798.jpgD"
+      },
+      {
+        "name": "Product 65",
+        "subcategoryId": 65,
+        "description": "Description for subcategory 65",
+        "price": 84.05,
+        "rating": 4.8,
+        "image": "https://i.ibb.co/rBHJ7cQ/shirt.webp"
+      }
+    ]
+  },
+  {
+    "CategoryID": 66,
+    "products": [
+      {
+        "name": "Product 67",
+        "subcategoryId": 67,
+        "description": "Description for subcategory 67",
+        "price": 32.85,
+        "rating": 3.7,
+        "image": "https://i.ibb.co/tMBDYkQp/mask.jpg"
+      },
+      {
+        "name": "Product 68",
+        "subcategoryId": 68,
+        "description": "Description for subcategory 68",
+        "price": 124.24,
+        "rating": 4.9,
+        "image": "https://i.ibb.co/s9TCHs0v/jersey.jpg"
+      },
+      {
+        "name": "Product 69",
+        "subcategoryId": 69,
+        "description": "Description for subcategory 69",
+        "price": 94.52,
+        "rating": 3.8,
+        "image": "https://i.ibb.co/yF6TfLQN/605A8798.jpgD"
+      },
+      {
+        "name": "Product 70",
+        "subcategoryId": 70,
+        "description": "Description for subcategory 70",
+        "price": 51.64,
+        "rating": 4.6,
+        "image": "https://i.ibb.co/rKm0L1ZF/socks.jpg"
+      },
+      {
+        "name": "Product 71",
+        "subcategoryId": 71,
+        "description": "Description for subcategory 71",
+        "price": 173.79,
+        "rating": 4.5,
+        "image": "https://i.ibb.co/rBHJ7cQ/shirt.webp"
+      },
+      {
+        "name": "Product 72",
+        "subcategoryId": 72,
+        "description": "Description for subcategory 72",
+        "price": 119.61,
+        "rating": 4.5,
+        "image": "https://i.ibb.co/rBHJ7cQ/shirt.webp"
+      },
+      {
+        "name": "Product 73",
+        "subcategoryId": 73,
+        "description": "Description for subcategory 73",
+        "price": 166.69,
+        "rating": 3.7,
+        "image": "https://i.ibb.co/yF6TfLQN/605A8798.jpgD"
+      },
+      {
+        "name": "Product 74",
+        "subcategoryId": 74,
+        "description": "Description for subcategory 74",
+        "price": 197.53,
+        "rating": 3.8,
+        "image": "https://i.ibb.co/Y7JbYjM4/shorts.jpg"
+      },
+      {
+        "name": "Product 75",
+        "subcategoryId": 75,
+        "description": "Description for subcategory 75",
+        "price": 64.48,
+        "rating": 4.8,
+        "image": "https://i.ibb.co/yF6TfLQN/605A8798.jpgD"
+      },
+      {
+        "name": "Product 76",
+        "subcategoryId": 76,
+        "description": "Description for subcategory 76",
+        "price": 157.16,
+        "rating": 4.8,
+        "image": "https://i.ibb.co/nstzjZPq/polo.jpg"
+      }
+    ]
+  },
+  {
+    "CategoryID": 77,
+    "products": [
+      {
+        "name": "Product 78",
+        "subcategoryId": 78,
+        "description": "Description for subcategory 78",
+        "price": 154.1,
+        "rating": 4.2,
+        "image": "https://i.ibb.co/nstzjZPq/polo.jpg"
+      },
+      {
+        "name": "Product 79",
+        "subcategoryId": 79,
+        "description": "Description for subcategory 79",
+        "price": 175.56,
+        "rating": 4.8,
+        "image": "https://i.ibb.co/Y7JbYjM4/shorts.jpg"
+      },
+      {
+        "name": "Product 80",
+        "subcategoryId": 80,
+        "description": "Description for subcategory 80",
+        "price": 123.05,
+        "rating": 3.8,
+        "image": "https://i.ibb.co/FLnfBxq0/underwear.jpg"
+      },
+      {
+        "name": "Product 81",
+        "subcategoryId": 81,
+        "description": "Description for subcategory 81",
+        "price": 190.17,
+        "rating": 3.9,
+        "image": "https://i.ibb.co/s9TCHs0v/jersey.jpg"
+      },
+      {
+        "name": "Product 82",
+        "subcategoryId": 82,
+        "description": "Description for subcategory 82",
+        "price": 32.67,
+        "rating": 3.6,
+        "image": "https://i.ibb.co/KcHyfMRb/fullsleave.jpg"
+      },
+      {
+        "name": "Product 83",
+        "subcategoryId": 83,
+        "description": "Description for subcategory 83",
+        "price": 155.8,
+        "rating": 4.4,
+        "image": "https://i.ibb.co/rBHJ7cQ/shirt.webp"
+      },
+      {
+        "name": "Product 84",
+        "subcategoryId": 84,
+        "description": "Description for subcategory 84",
+        "price": 166.11,
+        "rating": 3.6,
+        "image": "https://i.ibb.co/s9TCHs0v/jersey.jpg"
+      },
+      {
+        "name": "Product 85",
+        "subcategoryId": 85,
+        "description": "Description for subcategory 85",
+        "price": 47.18,
+        "rating": 4.3,
+        "image": "https://i.ibb.co/s9TCHs0v/jersey.jpg"
+      },
+      {
+        "name": "Product 86",
+        "subcategoryId": 86,
+        "description": "Description for subcategory 86",
+        "price": 180.44,
+        "rating": 4.5,
+        "image": "https://i.ibb.co/Y7JbYjM4/shorts.jpg"
+      },
+      {
+        "name": "Product 87",
+        "subcategoryId": 87,
+        "description": "Description for subcategory 87",
+        "price": 148.28,
+        "rating": 4.1,
+        "image": "https://i.ibb.co/KcHyfMRb/fullsleave.jpg"
+      }
+    ]
+  },
+  {
+    "CategoryID": 88,
+    "products": [
+      {
+        "name": "Product 89",
+        "subcategoryId": 89,
+        "description": "Description for subcategory 89",
+        "price": 56.43,
+        "rating": 4.0,
+        "image": "https://i.ibb.co/KcHyfMRb/fullsleave.jpg"
+      },
+      {
+        "name": "Product 90",
+        "subcategoryId": 90,
+        "description": "Description for subcategory 90",
+        "price": 199.14,
+        "rating": 4.5,
+        "image": "https://i.ibb.co/rBHJ7cQ/shirt.webp"
+      },
+      {
+        "name": "Product 91",
+        "subcategoryId": 91,
+        "description": "Description for subcategory 91",
+        "price": 171.53,
+        "rating": 4.2,
+        "image": "https://i.ibb.co/tMBDYkQp/mask.jpg"
+      },
+      {
+        "name": "Product 92",
+        "subcategoryId": 92,
+        "description": "Description for subcategory 92",
+        "price": 34.11,
+        "rating": 4.4,
+        "image": "https://i.ibb.co/s9TCHs0v/jersey.jpg"
+      },
+      {
+        "name": "Product 93",
+        "subcategoryId": 93,
+        "description": "Description for subcategory 93",
+        "price": 119.0,
+        "rating": 3.7,
+        "image": "https://i.ibb.co/tMBDYkQp/mask.jpg"
+      },
+      {
+        "name": "Product 94",
+        "subcategoryId": 94,
+        "description": "Description for subcategory 94",
+        "price": 57.5,
+        "rating": 4.1,
+        "image": "https://i.ibb.co/rBHJ7cQ/shirt.webp"
+      },
+      {
+        "name": "Product 95",
+        "subcategoryId": 95,
+        "description": "Description for subcategory 95",
+        "price": 177.03,
+        "rating": 4.2,
+        "image": "https://i.ibb.co/rBHJ7cQ/shirt.webp"
+      },
+      {
+        "name": "Product 96",
+        "subcategoryId": 96,
+        "description": "Description for subcategory 96",
+        "price": 198.67,
+        "rating": 4.6,
+        "image": "https://i.ibb.co/nstzjZPq/polo.jpg"
+      },
+      {
+        "name": "Product 97",
+        "subcategoryId": 97,
+        "description": "Description for subcategory 97",
+        "price": 167.15,
+        "rating": 3.5,
+        "image": "https://i.ibb.co/s9TCHs0v/jersey.jpg"
+      },
+      {
+        "name": "Product 98",
+        "subcategoryId": 98,
+        "description": "Description for subcategory 98",
+        "price": 72.62,
+        "rating": 4.8,
+        "image": "https://i.ibb.co/rKm0L1ZF/socks.jpg"
+      }
+    ]
+  },
+  {
+    "CategoryID": 99,
+    "products": [
+      {
+        "name": "Product 100",
+        "subcategoryId": 100,
+        "description": "Description for subcategory 100",
+        "price": 145.15,
+        "rating": 4.4,
+        "image": "https://i.ibb.co/yF6TfLQN/605A8798.jpgD"
+      },
+      {
+        "name": "Product 101",
+        "subcategoryId": 101,
+        "description": "Description for subcategory 101",
+        "price": 159.1,
+        "rating": 3.8,
+        "image": "https://i.ibb.co/FLnfBxq0/underwear.jpg"
+      },
+      {
+        "name": "Product 102",
+        "subcategoryId": 102,
+        "description": "Description for subcategory 102",
+        "price": 50.37,
+        "rating": 4.1,
+        "image": "https://i.ibb.co/tMBDYkQp/mask.jpg"
+      },
+      {
+        "name": "Product 103",
+        "subcategoryId": 103,
+        "description": "Description for subcategory 103",
+        "price": 36.69,
+        "rating": 4.9,
+        "image": "https://i.ibb.co/rKm0L1ZF/socks.jpg"
+      },
+      {
+        "name": "Product 104",
+        "subcategoryId": 104,
+        "description": "Description for subcategory 104",
+        "price": 148.79,
+        "rating": 4.7,
+        "image": "https://i.ibb.co/KcHyfMRb/fullsleave.jpg"
+      },
+      {
+        "name": "Product 105",
+        "subcategoryId": 105,
+        "description": "Description for subcategory 105",
+        "price": 183.9,
+        "rating": 4.8,
+        "image": "https://i.ibb.co/nstzjZPq/polo.jpg"
+      },
+      {
+        "name": "Product 106",
+        "subcategoryId": 106,
+        "description": "Description for subcategory 106",
+        "price": 78.76,
+        "rating": 4.2,
+        "image": "https://i.ibb.co/tMBDYkQp/mask.jpg"
+      },
+      {
+        "name": "Product 107",
+        "subcategoryId": 107,
+        "description": "Description for subcategory 107",
+        "price": 159.52,
+        "rating": 4.2,
+        "image": "https://i.ibb.co/FLnfBxq0/underwear.jpg"
+      },
+      {
+        "name": "Product 108",
+        "subcategoryId": 108,
+        "description": "Description for subcategory 108",
+        "price": 163.34,
+        "rating": 4.8,
+        "image": "https://i.ibb.co/yF6TfLQN/605A8798.jpgD"
+      },
+      {
+        "name": "Product 109",
+        "subcategoryId": 109,
+        "description": "Description for subcategory 109",
+        "price": 44.57,
+        "rating": 3.9,
+        "image": "https://i.ibb.co/rBHJ7cQ/shirt.webp"
+      }
+    ]
+  },
+  {
+    "CategoryID": 1010,
+    "products": [
+      {
+        "name": "Product 1011",
+        "subcategoryId": 1011,
+        "description": "Description for subcategory 1011",
+        "price": 55.01,
+        "rating": 4.8,
+        "image": "https://i.ibb.co/yF6TfLQN/605A8798.jpgD"
+      },
+      {
+        "name": "Product 1012",
+        "subcategoryId": 1012,
+        "description": "Description for subcategory 1012",
+        "price": 108.72,
+        "rating": 4.6,
+        "image": "https://i.ibb.co/tMBDYkQp/mask.jpg"
+      },
+      {
+        "name": "Product 1013",
+        "subcategoryId": 1013,
+        "description": "Description for subcategory 1013",
+        "price": 128.9,
+        "rating": 4.4,
+        "image": "https://i.ibb.co/s9TCHs0v/jersey.jpg"
+      },
+      {
+        "name": "Product 1014",
+        "subcategoryId": 1014,
+        "description": "Description for subcategory 1014",
+        "price": 195.73,
+        "rating": 3.6,
+        "image": "https://i.ibb.co/rBHJ7cQ/shirt.webp"
+      },
+      {
+        "name": "Product 1015",
+        "subcategoryId": 1015,
+        "description": "Description for subcategory 1015",
+        "price": 62.82,
+        "rating": 4.2,
+        "image": "https://i.ibb.co/rBHJ7cQ/shirt.webp"
+      },
+      {
+        "name": "Product 1016",
+        "subcategoryId": 1016,
+        "description": "Description for subcategory 1016",
+        "price": 184.76,
+        "rating": 4.1,
+        "image": "https://i.ibb.co/Y7JbYjM4/shorts.jpg"
+      },
+      {
+        "name": "Product 1017",
+        "subcategoryId": 1017,
+        "description": "Description for subcategory 1017",
+        "price": 75.75,
+        "rating": 4.9,
+        "image": "https://i.ibb.co/Y7JbYjM4/shorts.jpg"
+      },
+      {
+        "name": "Product 1018",
+        "subcategoryId": 1018,
+        "description": "Description for subcategory 1018",
+        "price": 129.61,
+        "rating": 4.2,
+        "image": "https://i.ibb.co/s9TCHs0v/jersey.jpg"
+      },
+      {
+        "name": "Product 1019",
+        "subcategoryId": 1019,
+        "description": "Description for subcategory 1019",
+        "price": 51.21,
+        "rating": 3.7,
+        "image": "https://i.ibb.co/nstzjZPq/polo.jpg"
+      },
+      {
+        "name": "Product 1020",
+        "subcategoryId": 1020,
+        "description": "Description for subcategory 1020",
+        "price": 170.15,
+        "rating": 3.6,
+        "image": "https://i.ibb.co/nstzjZPq/polo.jpg"
+      }
+    ]
+  }
+]

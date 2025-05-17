@@ -19,7 +19,7 @@ import B3 from "../../assets/Bannerimg/B3.jpg"
 
 const Banner = () => {
   return (
-    <div className="w-full">
+    <div className="w-full ">
       <Swiper
         modules={[Navigation, Pagination, Scrollbar, A11y, Autoplay]}
         spaceBetween={50}

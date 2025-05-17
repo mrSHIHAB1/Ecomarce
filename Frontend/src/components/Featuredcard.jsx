@@ -1,19 +1,22 @@
 import React from 'react';
+import { Link } from 'react-router-dom'; // Import Link for navigation
 
-function Featuredcard() {
+function Featuredcard({ product }) {
+  const { CategoryID,id, image, name, price } = product;
+
   return (
-    <div className="p-2">
-      <div className="card w-60 bg-base-100 shadow-md overflow-hidden relative">
-        <figure className="relative">
+    <div className="card bg-base-100 shadow-sm">
+      <figure>
+        <Link to={`/ProductPage/${CategoryID}`}> {/* Link to navigate to product details */}
           <img
-            src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-            alt="Sneakers"
-            className="object-fill  h-64"
+            src={image}
+            alt={name}
+            className="rounded-xl h-48 w-full object-cover"
           />
-          <div className="absolute bottom-0 left-0 w-full  p-3 rounded-b-xl">
-            <h2 className="text-gray-900 text-lg font-semibold text-center bg-white w-[50%] mx-auto rounded-lg">Sneakers</h2>
-          </div>
-        </figure>
+        </Link>
+      </figure>
+      <div className="p-4">
+        <h2 className="text-lg text-center font-semibold">{name}</h2>
       </div>
     </div>
   );
